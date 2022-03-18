@@ -1,2 +1,2 @@
-# Survival-pack
-A survival pack for minecraft(more recipes)
+# Better fishing
+A datapack for minecraft(aabout fishing)
